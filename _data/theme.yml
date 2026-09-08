@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://dcr.lib.unc.edu/services/api/iiif/v3/fe6f1853-0709-4e58-8780-a4ba8a19dd3f/full/max/0/default.jpg
+featured-image: https://wooarchitects.com/wp-content/uploads/2026/03/WOOarchitects-Expo-2025_UK-Pavilion_%C2%A9HuftonCrow_07.webp
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 14em # Default is 8em
 # optional: change position of background image, center, top, bottom
